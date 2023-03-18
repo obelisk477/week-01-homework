@@ -1,3 +1,5 @@
+/* Whole document styles */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -16,6 +18,8 @@ p {
 body {
     background-color: #d9dcd6;
 }
+
+/* Begin header & sub-element styling */
 
 header {
     padding: 20px;
@@ -50,6 +54,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Begin main section styling */
+
 .hero {
     height: 1200px;
     width: 100%;
@@ -68,7 +74,9 @@ header nav ul li {
     margin-left: 25px;
 }
 
-.content {
+/* Styling for first services section */
+
+.services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -91,6 +99,8 @@ header nav ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Styling for benefits sidebar */
 
 .benefits {
     margin-right: 20px;
@@ -118,6 +128,8 @@ header nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Begin footer styling */
 
 footer {
     padding: 30px;
