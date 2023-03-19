@@ -7,7 +7,7 @@ CSS was refactored to mirror newly stuctured HTML, with appropriate comments add
 
 ## Usage
 
-Visit URL and navigate the page as you see fit 
+Visit https://obelisk477.github.io/week-01-homework/ and navigate the page as you see fit 
 
 ## Credits
 
